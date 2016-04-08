@@ -40,7 +40,7 @@ import org.json.JSONObject;
  *
  * @author <a href="http://wdx.me">DX</a>
  * @author <a href="http://88250.b3log.org">Liang Ding</a>
- * @version 1.0.0.1, Jan 2, 2016
+ * @version 1.0.0.1, Jan 2, 2016    大叔
  * @since 1.3.0
  */
 @RequestProcessor
